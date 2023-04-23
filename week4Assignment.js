@@ -170,3 +170,5 @@ console.log(findMinMax(testArray3));
 //found easier solution
 console.log(Math.max(testArray3));
 console.log(Math.min(testArray3));
+
+//adding a comment to test a commit and github
